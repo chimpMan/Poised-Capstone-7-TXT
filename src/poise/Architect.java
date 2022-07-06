@@ -7,7 +7,7 @@ package poise;
  * The class extends the Person class
  * 
  * @author Samuel Wendi Kariuki
- * @version 3.0 06 April 2022
+ * @version 3.2 06 July 2022
  * @see Person
  */
 public class Architect extends Person {
@@ -31,8 +31,8 @@ public class Architect extends Person {
 
 	/**
 	 *
-	 * toString method example. The method presents the class information on the
-	 * Console
+	 * toString method example. 
+	 * The method presents the class information on the Console.
 	 *
 	 * @return a String variable containing all the information of the class
 	 */
