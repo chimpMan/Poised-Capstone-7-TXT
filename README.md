@@ -7,7 +7,6 @@ My Seventh Capstone Project
 * [What the project does](#what-this-project-does) 
 * [How does it work](#how-does-it-work)
 * [Detailed Summary](#detailed-summary) 
-* [What is JDBC](#but-what-is-a-jdbc-connection)
 * [How is a project created](#how-is-the-project-created) 
 * [How is a project edited](#how-is-the-project-edited) 
 * [How is a project viewed](#how-is-the-project-viewed) 
