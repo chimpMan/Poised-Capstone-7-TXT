@@ -38,7 +38,7 @@ In a basic summary, the program works by
 This list is what is used by the program to retrieve and save our projects.
 
 3. The list is checked if it is either empty or not.
-If the former is true, the list is populated by the records in the MySQL server.
+If the former is true, the list is populated by the records in a saved text file.
 The server comes preloaded with two projects.
 If the list is not empty, the projects are loaded and can now be manipulated from the menu.
 
